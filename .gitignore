@@ -1,0 +1,7 @@
+chroma_db/
+files/
+pdfs/
+jsons/
+.env
+__pycache__/
+*.pyc
